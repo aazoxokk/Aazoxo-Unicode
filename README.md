@@ -35,10 +35,10 @@ Stawiamy na nowoczesny wygląd. Każdy plik konfiguracyjny wspiera:
 
 | Projekt / Folder | Typ | Opis | Stan |
 | :--- | :--- | :--- | :--- |
-| `📂 Plugins-Config/` | Configs | Kompleksowe pliki YAML pod serwery 1.16+ | 🔵 Rozwijane |
+| `📂 Plugins-Config/` | Configs | Kompleksowe pliki YAML pod serwery 1.16+ | 🟡 W toku |
 | `📂 Scripts-Sk/` | Skript | Zaawansowane skrypty (min. 400 linii) | 🟡 W toku |
-| `📂 Lang-Packs/` | Translations | Pełne spolszczenia (Unicode Support) | 🟢 Gotowe |
-| `📂 GUIs-Templates/` | UI/UX | Szablony menu z użyciem specjalnych fontów | 🔵 Rozwijane |
+| `📂 Lang-Packs/` | Translations | Pełne spolszczenia (Unicode Support) | 🟡 W toku |
+| `📂 GUIs-Templates/` | UI/UX | Szablony menu z użyciem specjalnych fontów | 🟡 W toku |
 
 > Te Projekty są `open-source` tzw. dostępne dla każdego możesz je pobrać kiedy chcesz i kiedy będziesz chciał.
 
