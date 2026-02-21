@@ -40,7 +40,7 @@ Stawiamy na nowoczesny wygląd. Każdy plik konfiguracyjny wspiera:
 | `📂 Lang-Packs/` | Translations | Pełne spolszczenia (Unicode Support) | 🟢 Gotowe |
 | `📂 GUIs-Templates/` | UI/UX | Szablony menu z użyciem specjalnych fontów | 🔵 Rozwijane |
 
--# Te Projekty są `open-source` tzw. dostępne dla każdego możesz je pobrać kiedy chcesz i kiedy będziesz chciał.
+> Te Projekty są `open-source` tzw. dostępne dla każdego możesz je pobrać kiedy chcesz i kiedy będziesz chciał.
 
 ---
 
