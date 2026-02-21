@@ -1,4 +1,4 @@
-# 🌌 aazoxo / unicode
+# 🌌 Aazoxo Unicode
 ### 💎 The Ultimate High-End Configuration & Scripting Hub 💎
 
 ---
