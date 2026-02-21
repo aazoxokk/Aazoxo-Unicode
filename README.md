@@ -39,6 +39,7 @@ Stawiamy na nowoczesny wygląd. Każdy plik konfiguracyjny wspiera:
 | `📂 Scripts-Sk/` | Skript | Zaawansowane skrypty (min. 400 linii) | 🟡 W toku |
 | `📂 Lang-Packs/` | Translations | Pełne spolszczenia (Unicode Support) | 🟢 Gotowe |
 | `📂 GUIs-Templates/` | UI/UX | Szablony menu z użyciem specjalnych fontów | 🔵 Rozwijane |
+
 -# Te Projekty są `open-source` tzw. dostępne dla każdego możesz je pobrać kiedy chcesz i kiedy będziesz chciał.
 
 ---
