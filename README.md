@@ -70,6 +70,7 @@ Jeśli szukasz pomocy w poprawkach lub rozwoju tych skryptów, pamiętaj:
 
 ## 📬 Kontakt & Support
 Wszelkie błędy lub propozycje rozbudowy konfiguracji do standardu 800+ linii prosimy zgłaszać poprzez **Issues** w tym repozytorium.
+Lub Wejdź na [discorda](https://dsc.gg/aazoxounicode) tam znajdziesz lepsze wsparcie.
 
 ---
 **Maintained by Aazek** • 2026 • *High-End Solutions for Servers*
